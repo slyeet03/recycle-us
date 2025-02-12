@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-RecycleUs is a web application developed for the "Hack to the Future Hackathon". It aims to promote and simplify recycling habits by providing users with recycling guides, a recycling center locator, and personal recycling tracking features.
+RecycleUs is a web application developed for the "Hack to the Future Hackathon". It aims to promote and simplify recycling habits by providing users with recycling guides, a recycling center locator, and personal recycling tracking features. Basically gamefying the process of recycling.
 
 ![](screenshots/1.png)
 ![](screenshots/2.png)
